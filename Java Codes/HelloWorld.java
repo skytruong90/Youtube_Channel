@@ -1,4 +1,4 @@
-// Everybody needs a hello world script :D
+// Write a code that ouptut Hello World
 
 public class HelloWorld {
    public static void main(String [] args) {
