@@ -1,6 +1,5 @@
 // Given both pounds and ounces, calculate the total number of ounces.
 // Example: 4 pounds 2 ounces should output 66 ounces.
-// YouTube video: https://youtu.be/WsfJieOImSg
 
 // Import Scanner to get user input.
 import java.util.Scanner;
