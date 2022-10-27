@@ -3,4 +3,4 @@
 
 Where you can see all of my projects and codes that I have been working on.
 
-In the file "Java Codes", these are the codes and projects that I have made throughout my journey. 
+In the file "Java Codes", these are the codes and projects that I have made throughout my journey learning Java. 
