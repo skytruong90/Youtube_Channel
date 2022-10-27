@@ -1,6 +1,5 @@
 // Given three (3) integers, and output the smallest of these three values.
 // Example: Input is 8, 14, 4 ... Output should be 4.
-// YT Video: https://youtu.be/Rjpk2555svw
 
 // Import Scanner class
 import java.util.Scanner;
