@@ -30,7 +30,6 @@ public class rectangle {
       // Finally, we output the answer. Remember to concatenate using the + symbol.
       System.out.println("The perimeter of the rectangle is " + answer + ".");
     
-   // A common mistake is to forgot these closing curly braces. It happens to everyone.    
    }
 }
 
