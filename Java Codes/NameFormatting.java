@@ -1,8 +1,8 @@
 // Given a first name, middle name, and last name: format the name to be last name, first initial and middle initial.
 // EXAMPLE:                      CORNER CASE: Only given First and Last name
-// Input: Jason Skilled Apple          Input: Jason Apple
+// Input: David Kingsley Tan          Input: David Tan
 // Output: Apple, J. S.               Output: Apple, J.
-// YT Video: https://youtu.be/qMliviJV20E
+
 
 // Import Scanner Object
 import java.util.Scanner;
