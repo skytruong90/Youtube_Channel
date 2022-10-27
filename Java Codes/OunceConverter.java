@@ -1,6 +1,5 @@
 // Given only ounces: convert ounces into total pounds and ounces.
 // Example: If given 36 ounces, the output should be 2 pounds and 4 ounces.
-// YouTube video: https://youtu.be/anvrKLVj9uk
 
 // Import scanner to gather input from the user.
 import java.util.Scanner;
