@@ -1,5 +1,5 @@
 // Given the price per gallon of gas and the number of gallons, compute the total cost of gas.
-// We will do this in TWO ways. One with purely integers, and once with double variables.
+
 
 // This imports the Scanner Class, which is used to gather input from a user.
 import java.util.Scanner;
@@ -23,12 +23,6 @@ public class GasPrice {
       // Output cost of gas with dollar sign.
       System.out.println("Total cost of gas is $" + (pricePerGallon * numberOfGallons));
       
-      // Challenge: Can you figure out how to make the output only show 2 places after the decimal?
-      // Example: 9.475 would become 9.47
-      // Hint: You'll need to use System.out.printf
-      //       If you're not sure what printf is, don't be afraid to look it up online!
-      //       Looking stuff up is a resource to be used!
-      // If you want the answer, I will post it 20 lines below this one in a comment.
    }
 }
 
