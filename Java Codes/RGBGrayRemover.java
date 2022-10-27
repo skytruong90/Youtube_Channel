@@ -1,7 +1,6 @@
 // Create a java program that removes gray from an RGB value.
 // This will use 3 values, (R)ed (G)reen & (B)lue.
 // If all 3 numbers are equal, the color should be 0, 0, 0 (Which is black).
-// YT video: https://youtu.be/9DdkI_x7Dfw
 
 // Import scanner functionality.
 import java.util.Scanner;
