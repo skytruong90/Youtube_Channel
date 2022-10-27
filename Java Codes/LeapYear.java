@@ -2,7 +2,7 @@
 // To account for the difference in time, every 4 years, a leap year takes place.
 // Requirements:  1) The year must be divisible by 4
 //                2) If the year is a century year (1700, 1800, etc.), the year must be evenly divisible by 400.
-// YT Video: https://youtu.be/NwzWbyToRSM
+
 
 // Import Scanner class
 import java.util.Scanner;
