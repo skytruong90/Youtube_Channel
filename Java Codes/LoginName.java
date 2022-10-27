@@ -2,7 +2,7 @@
 // then	output: Your login name: JordaM63
 // if    input: Kanye West 2020
 // then output: Your login name: WestK20
-// YT Video: https://youtu.be/x3amWjHF5oU
+
 
 // Imports scanner to get input from user.
 import java.util.Scanner;
