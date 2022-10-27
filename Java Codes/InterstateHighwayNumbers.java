@@ -1,4 +1,3 @@
-// YT video: https://youtu.be/Z6cxt53_pNI
 /* Primary U.S. interstate highways are numbered 1-95. 
  * Odd numbers (like the 11 or 95) go north & south. Even numbers (like the 6 or 90) go east & west. 
  * Auxiliary highways are numbered 100-999 and they service the primary highway indicated by the 
