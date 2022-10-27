@@ -1,6 +1,5 @@
 // Given a distance in yards, we want to convert the distance into feet and inches.
 // If input is 3, output should be 9 and 108 respectively.
-// YouTube video: https://youtu.be/Ou5h7rLdwRo
 
 // Import scanner to gather input from user
 import java.util.Scanner;
@@ -32,8 +31,6 @@ public class YardConverter {
       // The second main difference here is instead of "+ inches", it is ", inches".
       System.out.printf("Total inches: %.1f", inches);
       
-      // You may want to play around with the .printf output to see what you can do with it!
-      // Remember, the "%.1f" is the specific portion that tells it how many decimal points to include.
-      
+
    }
 }
