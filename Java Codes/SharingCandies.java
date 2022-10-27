@@ -1,7 +1,6 @@
 // You have candies in 3 jars. You need to distribute these candies equally among 4 friends.
 // Any extra candies go to you. We will need to take 3 inputs which represent the number of
 // candies per jar. Then, we'll output the number of candies that each friend will get.
-// YT video: https://youtu.be/V2-4osXO1Wo
 
 // Import scanner to get input from user.
 import java.util.Scanner;
