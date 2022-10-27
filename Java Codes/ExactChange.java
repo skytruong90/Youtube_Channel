@@ -1,6 +1,6 @@
 // Write a program: Given total change amount in pennies as an integer input, output the change using the fewest coins, one coin type per line. 
 // The coin types are Dollars, Quarters, Dimes, Nickels, and Pennies. Use singular and plural coin names as appropriate, like 1 Dollar vs. 2 Dollars.
-// YouTube video: https://youtu.be/s2HfCRjvteo
+
 
 // Import Scanner class to get input from user.
 import java.util.Scanner;
