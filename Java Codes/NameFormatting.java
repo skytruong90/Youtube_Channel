@@ -1,7 +1,7 @@
 // Given a first name, middle name, and last name: format the name to be last name, first initial and middle initial.
 // EXAMPLE:                      CORNER CASE: Only given First and Last name
-// Input: David Kingsley Tan          Input: David Tan
-// Output: Apple, J. S.               Output: Apple, J.
+// Input: David Kingsley Tan          
+// Output: tan, d. k.           
 
 
 // Import Scanner Object
