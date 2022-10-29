@@ -18,7 +18,6 @@
 // Corner Case #2: If input is 300
 // Output is: 300 is not a valid interstate highway number. 
 
-// As always, fully notated code is available on my github and shared in the description.
 
 // Import Scanner Class and begin.
 import java.util.Scanner;
