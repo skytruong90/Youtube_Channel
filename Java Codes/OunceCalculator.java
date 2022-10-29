@@ -23,12 +23,7 @@ public class OunceCalculator {
       // Output the total number of ounces AND calculate the pounds + ounces all at once.
       System.out.println("Total number of ounces: " + ((pounds * 16) + ounces) + ".");
       
-      // Alternatively, you could have broken the equation into a seperate variable.
-      /* Example:
-       * // Create answer variable, and compute the value of total ounces.
-       * int answer = ((pounds * 16) + ounces);
-       * System.out.println("Total number of ounces: " + answer);
-       */
+     
    }
 }
       
