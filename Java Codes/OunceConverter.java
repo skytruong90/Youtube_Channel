@@ -25,6 +25,6 @@ public class OunceConverter {
       int remainderOunces = ounces % 16;
       
       // Output the values in a nice print statement for the user to read.
-      System.out.println(pounds + " total pound(s) and " + remainderOunces + " ounce(s).");
+      System.out.println("Total is " + pounds + "pounds and " + remainderOunces + " ounce(s).");
    }
 }
