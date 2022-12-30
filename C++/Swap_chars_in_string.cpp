@@ -25,9 +25,3 @@ int main() {
 	std::cout  << "After swap: " + replace("irmidallo antamaditaon", 'i', 'a') << endl;
 	return 0;
 }
-
-
-	
-
-	
-
